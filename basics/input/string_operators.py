@@ -5,7 +5,7 @@ lives = int(input())
 print("10")
 energy = int(input())
 
-print("7")
+print("8")
 shield = int(input()) 
 
 # Display bot data
