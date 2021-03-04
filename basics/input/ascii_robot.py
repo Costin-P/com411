@@ -2,8 +2,8 @@
 print("o")
 eye = input() 
 
-# Display an ascii art robot
+# Display an ASCII art robot
 print("##########")
-print("#  " + eye + "  " + eye + "  #")
+print("#  "+eye+"   "+eye+"   #")
 print("#  ----  #")
 print("##########")
