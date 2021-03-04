@@ -1,5 +1,5 @@
 # Ask user for eye character 
-print("Please enter eye character")
+print("o")
 eye = input() 
 
 # Display an ascii art robot
