@@ -1,15 +1,15 @@
 # Read in user data 
 print("What is your name?")
-name = input(Prins) 
+name = input() 
 
 print("What is your age?")
-age = int(input(36))
+age = int(input())
 
 print("What is your weight?") 
-weight = float(input(85)) 
+weight = float(input()) 
 
 print("What is your height?")
-height = float(input(1.80))
+height = float(input())
 
 # Calculate bmi
 bmi = weight / (height ** 2)
