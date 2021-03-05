@@ -1,12 +1,14 @@
-# Read bot data
-print("3")
+ # Read bot data
+print("Please enter number of lives")
 lives = int(input())
 
-print("10")
+print("Please enter energy level")
 energy = int(input())
 
-print("8")
+print("Please enter shield level")
 shield = int(input()) 
+ 
+print("Health has been set")
 
 # Display bot data
 print("Lives:", "♥" * lives)
