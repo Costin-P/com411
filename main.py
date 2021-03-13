@@ -1,13 +1,7 @@
+# The function 
+def greet_user(): 
+ print("Please enter your name") 
+name = input()
+print("Hello", name)
 
-balance = int(input("What is your balance:"))
-
-if (balance >= 0):
- if (balance > 10):
-  print("Positive significant")
- else:
-   print ("Positive insignificant")
-else:
-  if (balance < -10):
-    print ("Negative significant")
-  else:
-    print ("Negative insignificant")
+greet_user()
